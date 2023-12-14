@@ -38,7 +38,7 @@ I hope you find CompAInion helpful in your day-to-day browsing. It's still a wor
 
 ## Demo
 
-https://github.com/firebotQL/CompAInion/assets/78686/b3a70c80-867e-49e7-a3a5-4aeea0ae4c54
+https://github.com/GonzaloAlejoMita/CompAInion/assets/78686/b3a70c80-867e-49e7-a3a5-4aeea0ae4c54
 
 
 ## Getting Started
@@ -57,7 +57,7 @@ Now that you've got your API key you can deploy your own instance of the backend
 - `OPENAI_API_KEY`: Your unique ChatGPT API Key.
 
 <p align="center">
-  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FfirebotQL%2FCompAInion&env=PASSWORD,OPENAI_API_KEY&envDescription=Refer%20to%20them%20what%20they%20are%20from%20the%20README.md">
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FGonzaloAlejoMita%2FCompAInion&env=PASSWORD,OPENAI_API_KEY&envDescription=Refer%20to%20them%20what%20they%20are%20from%20the%20README.md">
     <img src="https://vercel.com/button" alt="Deploy with Vercel">
   </a>
 </p>
